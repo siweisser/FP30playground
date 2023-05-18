@@ -1,0 +1,15 @@
+{
+    "voices": {
+      "voice": [
+        {
+          "Set": "Roland",
+          "Category": " Piano",
+          "PC": "2",
+          "MSB": "8",
+          "LSB": "66",
+          "content": "Bright Piano(GP3)"
+        }
+        
+        ]
+    }
+}
